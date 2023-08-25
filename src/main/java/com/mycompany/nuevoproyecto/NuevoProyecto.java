@@ -15,5 +15,6 @@ public class NuevoProyecto {
         System.out.println("esto es un hola mundo desde NetBeans");
         System.out.println("se agrego una nueva linea de codigo como prueba");
          System.out.println("se agrego una segunda linea de codigo como prueba para el git hub");
+         System.out.println("uffffffffffffffffffffffffffffffffffffffffffffffffffff nueva prueba de conexion con el get");
     }
 }
